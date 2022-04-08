@@ -26,6 +26,9 @@ Data Description-
       Apart from training files, we also require a "schema" file from the client, which contains all the relevant information about the training files such as:
         Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype.
 
+architecture
+ ![image](https://user-images.githubusercontent.com/76938173/162375449-3775f7f4-7cac-4dfa-8c72-f271b62689e6.png)
+
       
  
 Data Validation -
