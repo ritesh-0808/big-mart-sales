@@ -6,7 +6,8 @@ Problem Statement-
 
     Build a predictive model and find out the sales of each product at a particular store.
     
-    
+   
+![image](https://user-images.githubusercontent.com/76938173/162599949-e3ac46c8-9fe7-4dee-8b3b-2a0d634e88ae.png)
     
     
 
