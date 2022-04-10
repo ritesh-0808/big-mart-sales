@@ -8,7 +8,7 @@ Problem Statement-
     
     
     
-    ![image](https://user-images.githubusercontent.com/76938173/162599667-1e3e6f62-c5f4-45fd-815a-c57a9dc73ebb.png)
+    
 
 
 Data Description-
